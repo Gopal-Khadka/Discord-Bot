@@ -6,5 +6,6 @@
       motivational quotes,
       do some basic mathematical calculation, 
       shorten urls ,
-      convert webpages into pdf
+      convert webpages into pdf,
+      tells some facts,category wise jokes and dad jokes.
 
