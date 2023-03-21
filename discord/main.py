@@ -7,7 +7,7 @@ from get_joke import get_dad_joke, get_jokes
 from basic_functions import *
 from country import Country
 
-TOKEN = "MTA2OTQ0NjcxODMwOTAxOTY2OQ.GLp-Gl.syrgfNcggzZa5MTVaf5RODLG6CxE8nw-k8bRu0"
+TOKEN = ""
 
 
 def main():
